@@ -37,6 +37,11 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+	<dependency>
+		<groupId>uk.co.bigbeeconsultants</groupId>
+		<artifactId>bee-config_2.9.2</artifactId>
+		<version>0.12.1</version>
+	</dependency>
   </dependencies>
 
   <build>
